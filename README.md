@@ -28,6 +28,10 @@ Currently, I'm learning React.js development, using Vite and Tailwind CSS as my 
 # 
 
 ### 📺 Latest Instagram Videos
+[![Instagram Preview](https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/491441044_17930463780012810_4205062276264340382_n.webp)](https://www.instagram.com/p/DIj-Zn1t8-t/?img_index=1)
+
+
+
 
 <!--
 **GitJairtje/GitJairtje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
