@@ -1,5 +1,6 @@
 
 ## Hi there 🙋🏽‍♂️
+**`(UX / UI Designer/Front-end developer/Photographer)`**
 ## 🗣️Who am I? <br>
 My name is Jaïr and I'm someone that is really passionate about web development and photography. 
 I would like to create thoughtful designs that truly make a difference for businesses, whether it’s improving accessibility, enhancing user experience, or making things more intuitive and user-friendly.
@@ -12,6 +13,20 @@ Currently, I'm learning React.js development, using Vite and Tailwind CSS as my 
 - 🔭 I recently updated my personal portfolio with my latest projects take a look here: https://jairportfolio.vercel.app/
 - 🤔I'm currently looking for a UX/UI-focused graduation internship, where I can apply my design skills to create new applications, websites, or features that help grow your business. While my main focus is UX/UI, I also have a growing knowledge of front-end development, giving me a strong understanding of how design and code work together.
 - 📫 How to reach me: www.linkedin.com/in/jair-pietersz-04a22a266
+
+### 🧰 Languages and Tools I am familliar with
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+### 📺 Latest Instagram Videos
 
 <!--
 **GitJairtje/GitJairtje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
